@@ -1,0 +1,1 @@
+All the Docker images have the name format of \<image name>:\<version>. If you do not provide any version number, Docker will consider tag as :latest by default.

@@ -1,0 +1,1 @@
+restart the daemon after deleting or adding static pods
